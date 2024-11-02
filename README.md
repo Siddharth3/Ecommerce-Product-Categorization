@@ -3,7 +3,7 @@
 ![Screenshot 2024-10-28 161146](https://github.com/user-attachments/assets/904d15e1-8b9b-4a73-b284-6c8ef9316ff7)
 
 ### 1. Problem Statement:
-In the rapidly evolving world of eCommerce, accurate product categorization is crucial for ensuring seamless customer experiences, reducing search friction, and increasing product discoverability. However, the sheer volume of diverse products poses a significant challenge. Current classification systems struggle to handle ambiguities, unconventional naming conventions, and multi-language data. This hackathon aims to address these challenges by inviting participants to create innovative solutions that enhance product categorization efficiency, accuracy, and scalability.
+In the rapidly evolving world of eCommerce, accurate product categorization is crucial for ensuring seamless customer experiences, reducing search friction, and increasing product discoverability. However, the sheer volume of diverse products poses a significant challenge. Current classification systems struggle to handle ambiguities, unconventional naming conventions, and multi-language data. This project aims to address these challenges by inviting participants to create innovative solutions that enhance product categorization efficiency, accuracy, and scalability.
 Develop a text classification model that categorizes products with maximum accuracy based on description of the product.
 
 ### 2. Objectives
